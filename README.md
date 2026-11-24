@@ -1,6 +1,3 @@
-# husainhatim-mangalorewala.github.io
+# Temporarily offline
 
-Personal portfolio of Husain Hatim Mangalorewala.
-
-- `/` – My Story: from the shop floor to the bank
-- `/profile/` – Professional profile
+The full site is saved on the `full-site-backup` branch.
